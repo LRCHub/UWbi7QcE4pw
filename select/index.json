@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フラジャイル・ナイト",
+  "base_artist": "Aooo",
+  "createdAt": "2026-01-09T14:33:03.164938Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フラジャイル・ナイト",
+      "artist": "Aooo",
+      "has_synced": false,
+      "path": "select/pl_01_フラジャイル・ナイト_Aooo.txt"
+    }
+  ]
+}
